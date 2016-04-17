@@ -22,7 +22,7 @@
 	
 #### 三、基于Git分支开发的流程图(Git Flow)：
 <img src="http://s17.mogucdn.com/p1/160224/upload_ie4tay3ggzsgmolfgyzdambqgqyde_1150x1524.png" 
-height=800 width=610 align="middle">>
+height=800 width=610 align="middle">
 
 #### 四、Git Flow如何工作
 
